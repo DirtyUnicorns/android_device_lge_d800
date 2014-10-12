@@ -15,5 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/du_d800.mk
-
+    $(LOCAL_DIR)/du.mk
